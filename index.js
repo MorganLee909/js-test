@@ -3,6 +3,7 @@ let getSum = function(array){
     //пиши код здесь
 }
 
+//найти наибольшее число
 let getMax = function(array){
     //пиши код здесь
 }
